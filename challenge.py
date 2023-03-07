@@ -9,4 +9,5 @@ def print_banner(text):
 
 if __name__ == "__main__":
     print_banner("Hee kijk nou, een update van Jorg!")
+    print_banner("Prachtig!")
 
