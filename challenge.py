@@ -8,5 +8,5 @@ def print_banner(text):
 
 
 if __name__ == "__main__":
-    print_banner("To be or not to be")
+    print_banner("🌺❃✿🌷❀❁🌺")
 
