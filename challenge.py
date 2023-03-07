@@ -8,5 +8,9 @@ def print_banner(text):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     print_banner("<owo>")
+=======
+    print_banner("To be or not to be")
+>>>>>>> 88ef83136d015bde3639279ac74bba95aeaf5c91
 
